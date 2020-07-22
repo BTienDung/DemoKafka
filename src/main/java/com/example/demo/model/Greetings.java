@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.model;
 
 
 // lombok autogenerates getters, setters, toString() and a builder (see https://projectlombok.org/):

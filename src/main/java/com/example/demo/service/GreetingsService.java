@@ -1,6 +1,8 @@
-package com.example.demo;
+package com.example.demo.service;
 
 
+import com.example.demo.stream.GreetingsStreams;
+import com.example.demo.model.Greetings;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.messaging.MessageChannel;
 import org.springframework.messaging.MessageHeaders;
